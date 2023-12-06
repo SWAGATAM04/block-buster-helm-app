@@ -7,7 +7,7 @@
 2. This is used for FluxCD Demo.
 3. Chart Name - `block-buster-helm-app`
 4. URL - `https://swagatam04.github.io/block-buster-helm-app`
-5. Container Image - `siddharth67/block-buster-dev:7.6.0`
+5. Container Image - `swagatam04/block-buster-dev:7.6.0`
 
 ### Sample values.yaml
 ```yaml
